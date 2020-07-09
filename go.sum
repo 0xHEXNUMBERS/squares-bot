@@ -1,0 +1,5 @@
+github.com/0xhexnumbers/gmcts v1.2.1 h1:e5M8ok/k9GtsfeGNYFRk4Tc5y1/2OHIwkYkfoisxraE=
+github.com/0xhexnumbers/gmcts v1.2.1/go.mod h1:Ji7Yszj3qgaHtB4WTurxyHTf80tXiadXlYFehheDGm4=
+github.com/0xhexnumbers/go-squares v1.0.0 h1:5erKYHQfDuCFpBAq5oDjGxBPzRhRBSZh9aioUAxE+oQ=
+github.com/0xhexnumbers/go-squares v1.0.0/go.mod h1:9jpJaSOwQtB+3+SFCDxPQBKYhlrbD0RkM6sF1+HLFQ0=
+github.com/0xhexnumbers/go-tic-tac-toe v0.2.2/go.mod h1:BYw9wIBW8reSdoXGVI0H1eQ2ZaZL3AMRbaOZNumyqqM=
